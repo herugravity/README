@@ -1,5 +1,5 @@
 # README
-All about me
+
 # Aplikasi kasir untuk penjualan di toko 
 
 Aplikasi ini adalah sistem backend berbasis web untuk mengelola stok barang dan transaksi penjualan. Proyek ini dibuat untuk memudahkan bisnis saya sendiri sekaligus sebagai sarana hobi mengembangkan aplikasi yang solutif.
